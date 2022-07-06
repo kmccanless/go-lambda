@@ -1,4 +1,4 @@
-unused/outputs.tf
+**/function.zip
 
 **/.terraform/*
 .DS_Store
