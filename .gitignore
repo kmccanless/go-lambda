@@ -1,0 +1,9 @@
+unused/outputs.tf
+.tool-version
+
+**/.terraform/*
+.DS_Store
+
+*.tfstate
+*.tfstate.*
+**/.terraform.lock.hcl
