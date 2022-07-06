@@ -23,5 +23,5 @@ variable "project" {
   default = "go-lambda"
 }
 variable "build_dir" {
-    default = "../../bin"
+    default = "../../../bin"
 }

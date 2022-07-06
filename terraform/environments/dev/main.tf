@@ -1,0 +1,1 @@
+/Users/keith/code/personal/go-lambda/terraform/resources/main.tf
