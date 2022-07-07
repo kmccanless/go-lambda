@@ -6,3 +6,4 @@
 *.tfstate
 *.tfstate.*
 **/.terraform.lock.hcl
+bin/main
